@@ -1,0 +1,19 @@
+{
+  "bpb": 1.455264035047553,
+  "token_ppl": 20.950089045472737,
+  "nll_nats": 1303269.2276777602,
+  "targets": 428405,
+  "utf8_bytes": 1292013,
+  "seconds": 24.62530329998117,
+  "protocol": "7506-mp1-wt2-v2",
+  "split": "test",
+  "precision": "fp32",
+  "checkpoint_sha256": "752beccd552870a2f83dd5a460e1d1eb37ee0e809ecf40d6cac632222776bac5",
+  "implementation_sha256": "d0340092e2a2882113533f05f4668c48b721ee4416842910c2ba2ba1758e1d45",
+  "evaluator_sha256": "128bcb2dab0be0d427505bddb4671e3ab3a8f78e114be79a689c0f9029af133d",
+  "tokenizer_sha256": "020d1bc6aa4449c4f352b2e03d0e0fb4f39287f15297705e421b1fa7d817262e",
+  "device": "cpu",
+  "device_name": "CPU",
+  "peak_allocated_gb": 0.0,
+  "peak_reserved_gb": 0.0
+}

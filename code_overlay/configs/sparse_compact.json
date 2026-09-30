@@ -1,0 +1,1 @@
+{"vocab":2048,"width":192,"heads":6,"depth":6,"context":256,"ffn_hidden":512,"rope":true,"dropout":0.2,"ngram_dim":48,"ngram_buckets":[16381,65521]}

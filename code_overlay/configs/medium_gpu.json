@@ -1,0 +1,1 @@
+{"vocab":2048,"width":256,"heads":8,"depth":6,"context":256,"ffn_hidden":704,"rope":true,"dropout":0.15}

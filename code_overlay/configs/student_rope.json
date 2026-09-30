@@ -1,0 +1,9 @@
+{
+  "vocab": 2048,
+  "width": 144,
+  "heads": 4,
+  "depth": 5,
+  "context": 256,
+  "ffn_hidden": 384,
+  "rope": true
+}
